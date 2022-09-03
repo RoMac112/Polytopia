@@ -621,7 +621,7 @@
   "techview.completed": "(completat)",
   "techview.completed.info": "Ja has investigat aquesta tecnologia.",
   "techview.expensive.info": "No tens prou estrelles per comprar això. Prem 'següent torn' per obtenir-ne més.",
-  "techview.research": "INVESTIGACIÓ",
+  "techview.research": "INVESTIGAR",
 
   "action.info.attack": "fes un atac amb aquesta unitat. Seleccions la unitat i prem qualsevol marca VERMELLA si vols atacar",
   "action.info.recover": "Recuperar-se",
