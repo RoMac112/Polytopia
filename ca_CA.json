@@ -756,7 +756,7 @@
   "settings.language.load.info": "Carrega un arxiu d'idioma de Polytopia des d'un servidor remot utilitzant 'HTTPS'. Això és una característica experimental, no pels faltats de coratge.",
   "settings.language.load.input":"URL del fitxer d'idioma:",
   "settings.language.load.button": "CARREGA",
-  "settings.language.scale": "Escala de la interície",
+  "settings.scale": "Escala de la interície",
   "settings.scale.auto": "Automàtic",
   "settings.scale.small": "Petit",
   "settings.scale.medium": "Mitjà",
